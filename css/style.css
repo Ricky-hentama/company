@@ -9,3 +9,12 @@
     border-radius: 10px;
     display: inline;
 }
+
+.carousel-caption h1 {
+    font-size: 50px;
+}
+
+a .fas {
+    margin-left: 20px;
+
+}
