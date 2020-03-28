@@ -1,0 +1,11 @@
+.carousel-item {
+    height: 550px;
+}
+
+
+.carousel-caption {
+    padding: 10px;
+    background-color: rgb(243, 239, 239, 0.2);
+    border-radius: 10px;
+    display: inline;
+}
