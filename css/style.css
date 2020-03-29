@@ -29,6 +29,8 @@ a .fas:hover {
 .tengah h3 {
   display: inline;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-style: oblique;
+  font-weight: lighter;
   color: whitesmoke;
   position: relative;
   top: 4px;
