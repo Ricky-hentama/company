@@ -125,10 +125,14 @@ a .fas:hover {
   overflow: hidden;
 }
 
+#fiting {
+  border-image-slice: unset;
+}
+
+/* akhir product */
+
 /* footer */
 .container-lg {
   color: white;
   background-color: black;
 }
-
-/* akhir product */
