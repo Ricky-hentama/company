@@ -2,6 +2,7 @@
   height: 550px;
 }
 
+
 .carousel-caption {
   padding: 10px;
   background-color: rgba(161, 160, 160, 0.6);
@@ -26,6 +27,7 @@ a .fas:hover {
 .nav-logo {
   height: 40px;
 }
+
 .tengah h3 {
   display: inline;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -35,10 +37,12 @@ a .fas:hover {
   position: relative;
   top: 4px;
 }
+
 .tengah img {
   position: relative;
   bottom: 2px;
 }
+
 /* akhir carousel */
 
 /* product */
@@ -55,10 +59,12 @@ a .fas:hover {
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
+
 .site-header a {
   color: #999;
   transition: ease-in-out color 0.15s;
 }
+
 .site-header a:hover {
   color: #fff;
   text-decoration: none;
@@ -103,12 +109,13 @@ a .fas:hover {
    * Extra utilities
    */
 
-.flex-equal > * {
+.flex-equal>* {
   -ms-flex: 1;
   flex: 1;
 }
+
 @media (min-width: 768px) {
-  .flex-md-equal > * {
+  .flex-md-equal>* {
     -ms-flex: 1;
     flex: 1;
   }
@@ -117,6 +124,7 @@ a .fas:hover {
 .overflow-hidden {
   overflow: hidden;
 }
+
 /* footer */
 .container-lg {
   color: white;
